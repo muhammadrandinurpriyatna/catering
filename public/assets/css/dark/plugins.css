@@ -1,0 +1,12 @@
+@import url('main.css');
+@import url('../../../plugins/css/dark/perfect-scrollbar/perfect-scrollbar.css');
+@import url('../../../plugins/css/light/perfect-scrollbar/perfect-scrollbar.css');
+@import url('../../../plugins/css/dark/sweetalerts2/custom-sweetalert.css');
+@import url('../../../plugins/css/light/sweetalerts2/custom-sweetalert.css');
+@import url('../../../assets/css/dark/components/modal.css');
+@import url('../../../assets/css/light/components/modal.css');
+@import url('../../../assets/css/dark/elements/alert.css');
+@import url('../../../assets/css/light/elements/alert.css');
+@import url('../../../assets/css/dark/components/accordions.css');
+@import url('../../../assets/css/light/components/accordions.css');
+@import url('./structure.css');
