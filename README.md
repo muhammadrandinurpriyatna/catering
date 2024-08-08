@@ -7,6 +7,62 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Contact
+
+For any inquiries, you can reach out via:
+
+- Phone: +62 852-1355-4149
+- Email: [muhammadrandinurpriyatna@gmail.com](mailto:muhammadrandinurpriyatna@gmail.com)
+
+## Requirements
+
+- PHP 8.2 or higher
+- Composer 2.x
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/muhammadrandinurpriyatna/catering.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd catering
+    ```
+
+3. Install the dependencies using Composer:
+    ```bash
+    composer install
+    ```
+
+4. Copy the example environment file:
+    ```bash
+    cp .env.example .env
+    ```
+
+5. Generate the application key:
+    ```bash
+    php artisan key:generate
+    ```
+
+6. Run the database migrations and seed the database:
+    ```bash
+    php artisan migrate
+    ```
+
+6. Linking storage to public:
+    ```bash
+    php artisan storage:link
+    ```
+
+7. Serve the application:
+    ```bash
+    php artisan serve
+    ```
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
